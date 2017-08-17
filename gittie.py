@@ -8,3 +8,9 @@ def add():
 	
 welcome()
 add()
+
+def joke():
+	print("Dlaczego informatycy to dziwny typ ludzi? Bo trzymaja stringi w bibliotece xD xD")
+	
+
+joke()
